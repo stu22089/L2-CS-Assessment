@@ -65,3 +65,66 @@ body
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
 }
+
+.WhatIsCC
+{
+    color: white;
+    font-size: 100px;
+    padding-bottom: 50px;
+}
+
+.WhatIsCCP
+{
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.causestitle
+{
+    color: white;
+    font-size: 100px;
+    padding-bottom: 50px;
+}
+
+.causesp
+{
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.statprevtitle
+{
+    color: white;
+    font-size: 100px;
+    padding-bottom: 50px;
+}
+
+.statsp
+{
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.prevp
+{
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.sourcet
+{
+    color: white;
+    font-size: 100px;
+    padding-bottom: 50px;
+}
+
+.sourcep
+{
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
